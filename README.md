@@ -1,1 +1,2 @@
-# autopkg-recipes
+# autopkg-recipes from Chirchi
+AutoPKG recipe for XtraFinder
